@@ -18,4 +18,8 @@ In each example folder, there is a subfolder called html, which contains all the
 
 ### PBMC dataset
 
+<img src="https://cloud.githubusercontent.com/assets/18299367/15135801/86d670f0-1648-11e6-8a45-fc9991df7ff0.png" width="400">
+
 ### Mouse inner ear dataset
+
+<img src="https://cloud.githubusercontent.com/assets/18299367/15135801/86d670f0-1648-11e6-8a45-fc9991df7ff0.png" width="400">
