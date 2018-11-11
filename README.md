@@ -8,4 +8,6 @@ Download and unzip the cooccurence_clustering_repo.zip file. Among the three res
 
 In each example folder, run the step_01, 02, 03, ... matlab scripts sequentially. 
 
+In addition to the co-occurrence clustering algorthim, we also provide a matlab implementation of Seurat clustering.
 
+System requirements for running the code:  Matlab 2017b and Windonws 10 
