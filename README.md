@@ -20,11 +20,13 @@ In each example folder, there is a subfolder called html, which contains all the
 
 Data Source: The PBMC is available from 10X Genomics (https://s3-us-west-2.amazonaws.com/10x.files/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz).
 
+Co-occurrence clustering result:
 <img src="https://github.com/pqiu/cooccurrence_clustering/blob/master/example_PBMC.PNG" width="800">
 
 ### Mouse inner ear sensory epithelia
 
 Data Source: GSE71982
 
+Co-occurrence clustering result:
 <img src="https://github.com/pqiu/cooccurrence_clustering/blob/master/example_MouseInnerEar.PNG" width="800">
 
