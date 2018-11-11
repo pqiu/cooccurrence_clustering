@@ -4,8 +4,8 @@ One primary reason that makes the analysis of single-cell RNA-seq data challengi
 
 # Manual
 
-Download the cooccurence_clustering_repo.zip file, and unzip it. 
-Source code is under the "tools" folder.
-The other two folders are example datasets. 
+Download and unzip the cooccurence_clustering_repo.zip file. Among the three resulting folders, source code is under the "tools" folder, and the other two folders are two example datasets. 
+
+In each example folder, run the step_01, 02, 03, ... matlab scripts sequentially. 
 
 
