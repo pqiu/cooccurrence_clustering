@@ -4,4 +4,8 @@ One primary reason that makes the analysis of single-cell RNA-seq data challengi
 
 # Manual
 
-Download the .zip file 
+Download the cooccurence_clustering_repo.zip file, and unzip it. 
+Source code is under the "tools" folder.
+The other two folders are example datasets. 
+
+
