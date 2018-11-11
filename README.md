@@ -6,7 +6,7 @@ One primary reason that makes the analysis of single-cell RNA-seq data challengi
 
 Download and unzip the cooccurence_clustering_repo.zip file. Among the three resulting folders, source code is under the "tools" folder, and the other two folders are two example datasets. 
 
-In each example folder, run the step_01, 02, 03, ... matlab scripts sequentially. 
+To test the algorithm on the provided examples: open Matlab, change working directory to one example folder, run the step_01, 02, 03, ... scripts sequentially. 
 
 In addition to the co-occurrence clustering algorthim, we also provide a matlab implementation of Seurat clustering.
 
