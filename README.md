@@ -4,7 +4,7 @@ One primary reason that makes the analysis of single-cell RNA-seq data challengi
 
 # Paper
 
-A manuscript describing the algorithm is available at https://www.biorxiv.org/content/early/2018/11/11/468025
+A manuscript describing the algorithm is available at https://www.biorxiv.org/content/early/2018/11/17/468025
 
 # User Instructions
 
