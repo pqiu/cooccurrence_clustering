@@ -14,7 +14,7 @@ To test the algorithm on the provided examples: open Matlab, change working dire
 
 In addition to the co-occurrence clustering algorthim, we also provide a matlab implementation of Seurat clustering.
 
-System requirements for running the code:  Matlab 2017b and Windonws 10 
+System requirements for running the code:  Matlab 2017b, Windonws 10, >=32GB of RAM
 
 # Examples
 
