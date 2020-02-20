@@ -8,17 +8,15 @@ A manuscript describing the algorithm is available at https://www.biorxiv.org/co
 
 # User Instructions
 
-Download and unzip the cooccurence_clustering_repo.zip file. Among the three resulting folders, source code is under the "tools" folder, and the other two folders are two example datasets. 
-
-To test the algorithm on the provided examples: open Matlab, change working directory to one example folder, run the step_01, 02, 03, ... scripts sequentially. 
-
-In addition to the co-occurrence clustering algorthim, we also provide a matlab implementation of Seurat clustering.
+Download and unzip the cooccurence_clustering_repo.zip file. Among the three resulting folders, source code is under the "tools" folder, and the other two folders are two example datasets. To test the algorithm on the provided examples: open Matlab, change working directory to one example folder, run the step_01, 02, 03, ... scripts sequentially. 
 
 The raw data in the examples are in common formats (sparse matrix and GSE series matrix). To quickly test the algorithm on new datasets, please format the new data in the same way as one of the examples. 
 
 System requirements for running the code:  Matlab 2017b, Windonws 10, >=32GB of RAM
 
 Run time of the algorithm depends on the computer and dataset. For the example datasets below, run time should be around 10 minutes. For the largest dataset we have tested (~70,000 cells), the run time of the algorithm was ~10 hours (produced roughly 100 clusters).
+
+Note: cooccurence_clustering_repo_v2.zip presents an updated version of the coocurrence clustering algorithm. The concept stays the same, but the implementation is updated. 
 
 # Examples
 
